@@ -1,4 +1,4 @@
-<img width="1920" height="974" alt="zomato1" src="https://github.com/user-attachments/assets/481aebbf-65e6-4fa9-a742-d19b1a8016f0" />
+
 # Zomato-Data-Analytics-Dashboard
 <div align="center">
 
@@ -68,7 +68,8 @@ This dashboard **centralises all answers** in one place with real-time filtering
 
 > A branded splash page with a navigation button to enter the dashboard.
 
-![Index Page](zomato_index.png)
+![Index Page]<img width="1920" height="974" alt="zomato1" src="https://github.com/user-attachments/assets/481aebbf-65e6-4fa9-a742-d19b1a8016f0" />
+
 
 - Clean Zomato-branded design
 - Central **"Dashboard"** navigation button
@@ -80,7 +81,8 @@ This dashboard **centralises all answers** in one place with real-time filtering
 
 > Executive-level snapshot of overall platform performance.
 
-![Overview Page](zomato_overview.png)
+![Overview Page]<img width="1920" height="976" alt="zomato3" src="https://github.com/user-attachments/assets/2602617e-83c8-4169-92d5-343adaa16f16" />
+
 
 **Visuals included:**
 - 🔢 KPI Cards — Amount (₹987M), Quantity (2M), Ratings (148K), Orders (150K)
@@ -95,7 +97,7 @@ This dashboard **centralises all answers** in one place with real-time filtering
 
 > Deep dive into user demographics, acquisition, and churn.
 
-![User Performance Page](zomato_user.png)
+![User Performance Page]<img width="1920" height="976" alt="zomato6" src="https://github.com/user-attachments/assets/9746e157-5370-4e23-a811-4bb0c914ac67" />
 
 **Visuals included:**
 - 👤 Active Users (78K), User Count (17K), Ratings (148K), Orders (301K)
