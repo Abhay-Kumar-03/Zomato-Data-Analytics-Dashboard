@@ -328,6 +328,11 @@ Dyanmic_subHeading =
 
 Made with ❤️ using Power BI
 
+👤 Author
+Abhay
+Aspiring Analyst | Power BI ·Excel 📧 abhaychauhan8052@gmail.com
+🔗 LinkedIn -> www.linkedin.com/in/abhay-kumar-304462229
+
 
 
 </div>
