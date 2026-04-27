@@ -18,17 +18,14 @@
 
 ---
 
-📂 Dataset & Project Files
+## 📂 Dataset & Project Files
 
 All source datasets and the Power BI dashboard file are available on Google Drive.
 
 <div align="center">
 Show Image
 </div>
-The Drive folder contains:
-File / FolderDescription📊 Zomato-Dashboard.pbixMain Power BI dashboard file (open in Power BI Desktop)📁 data_sets/Folder containing all raw CSV/Excel source files
-Tables included in the dataset:
-TableDescriptionKey Columnsorders.csvAll order transactions — the Fact Tableorder_date, Value, city, r_id, user_id, f_id, Typeusers.csvUser profile datauser_id, Age, Gender, Marital Status, Occupationrestaurant.csvRestaurant master dataid, name, city, cuisine, rating, rating_countmenu.csvRestaurant to food item mappingmenu_id, r_id, f_id, price, cuisinefood.csvFood item catalogf_id, item, veg_or_non_veg
+
 How to use:
 
 Click the Drive button above → Download the full folder
