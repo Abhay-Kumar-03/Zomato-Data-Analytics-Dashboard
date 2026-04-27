@@ -22,9 +22,7 @@
 
 All source datasets and the Power BI dashboard file are available on Google Drive.
 
-<div align="center">
-Show Image
-</div>
+Link ->  https://drive.google.com/drive/folders/1dSa-QJL_S5rtIwsQymenNKMOm5hkoaJD?usp=drive_link
 
 How to use:
 
