@@ -145,7 +145,8 @@ This dashboard **centralises all answers** in one place with real-time filtering
 
 > Industry-standard Star Schema designed for optimal query performance and clean DAX.
 
-![Star Schema](zomato_schema.png)
+![Star Schema] <img width="1920" height="985" alt="zomato13" src="https://github.com/user-attachments/assets/9ff21d53-b91e-4970-a8c9-d173272ed722" />
+
 
 ```
                     ┌─────────┐
@@ -326,5 +327,7 @@ Dyanmic_subHeading =
 **⭐ If you found this project useful, please star the repository!**
 
 Made with ❤️ using Power BI
+
+
 
 </div>
