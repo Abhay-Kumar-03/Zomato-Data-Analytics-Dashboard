@@ -70,6 +70,8 @@ This dashboard **centralises all answers** in one place with real-time filtering
 > A branded splash page with a navigation button to enter the dashboard.
 
 ![Index Page]<img width="1920" height="974" alt="zomato1" src="https://github.com/user-attachments/assets/481aebbf-65e6-4fa9-a742-d19b1a8016f0" />
+<img width="1920" height="983" alt="zomato2" src="https://github.com/user-attachments/assets/57c41dfa-0d07-41ef-abb8-c905c27960bf" />
+
 
 
 - Clean Zomato-branded design
@@ -83,6 +85,10 @@ This dashboard **centralises all answers** in one place with real-time filtering
 > Executive-level snapshot of overall platform performance.
 
 ![Overview Page]<img width="1920" height="976" alt="zomato3" src="https://github.com/user-attachments/assets/2602617e-83c8-4169-92d5-343adaa16f16" />
+<img width="1920" height="978" alt="zomato4" src="https://github.com/user-attachments/assets/7857491f-09da-4202-a246-c37e34aaeec3" />
+<img width="1920" height="978" alt="zomato5" src="https://github.com/user-attachments/assets/94177a82-7c22-4f97-b5cc-e02fbff85693" />
+
+
 
 
 **Visuals included:**
@@ -99,6 +105,10 @@ This dashboard **centralises all answers** in one place with real-time filtering
 > Deep dive into user demographics, acquisition, and churn.
 
 ![User Performance Page]<img width="1920" height="976" alt="zomato6" src="https://github.com/user-attachments/assets/9746e157-5370-4e23-a811-4bb0c914ac67" />
+<img width="1920" height="978" alt="zomato7" src="https://github.com/user-attachments/assets/69d7964a-642c-428d-85d7-1cf350d33eb4" />
+<img width="1920" height="971" alt="zomato8" src="https://github.com/user-attachments/assets/989ecad6-87e0-4a0a-a327-f188e74d0bcf" />
+
+
 
 **Visuals included:**
 - 👤 Active Users (78K), User Count (17K), Ratings (148K), Orders (301K)
@@ -114,6 +124,12 @@ This dashboard **centralises all answers** in one place with real-time filtering
 > Geographic performance analysis across all Zomato cities.
 
 ![City Performance Page]<img width="1920" height="980" alt="zomato9" src="https://github.com/user-attachments/assets/bc3de227-5cff-46ca-b9ab-aa3d71717c37" />
+<img width="1920" height="981" alt="zomato10" src="https://github.com/user-attachments/assets/4d3002f9-a95f-4acf-864e-58b61d2fd8fb" />
+<img width="1920" height="979" alt="zomato11" src="https://github.com/user-attachments/assets/f02f3765-42e9-435c-bbdf-54bf9fecc686" />
+<img width="1920" height="979" alt="zomato12" src="https://github.com/user-attachments/assets/43858784-e105-43cb-9c58-e1a9a919128d" />
+
+
+
 
 **Visuals included:**
 - 🗺️ World map with city distribution overlay
