@@ -109,7 +109,7 @@ This dashboard **centralises all answers** in one place with real-time filtering
 
 > Geographic performance analysis across all Zomato cities.
 
-![City Performance Page](zomato_city.png)
+![City Performance Page]<img width="1920" height="980" alt="zomato9" src="https://github.com/user-attachments/assets/bc3de227-5cff-46ca-b9ab-aa3d71717c37" />
 
 **Visuals included:**
 - 🗺️ World map with city distribution overlay
@@ -264,23 +264,6 @@ Dyanmic_subHeading =
 
 ---
 
-## 📁 Project Structure
-
-```
-zomato-powerbi-dashboard/
-│
-├── 📊 Zomato-Dashboard.pbix        # Main Power BI file
-├── 📄 README.md                    # This file
-│
-├── 📸 screenshots/
-│   ├── zomato_index.png            # Landing page
-│   ├── zomato_overview.png         # Overview dashboard
-│   ├── zomato_user.png             # User Performance page
-│   ├── zomato_city.png             # City Performance page
-│   └── zomato_schema.png           # Star Schema data model
-│
-└── 📋 Zomato_PowerBI_Project_Report.pdf   # Full project report
-```
 
 ---
 
