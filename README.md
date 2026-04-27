@@ -1,3 +1,4 @@
+<img width="1920" height="974" alt="zomato1" src="https://github.com/user-attachments/assets/481aebbf-65e6-4fa9-a742-d19b1a8016f0" />
 # Zomato-Data-Analytics-Dashboard
 <div align="center">
 
